@@ -1,9 +1,5 @@
-- First-prize Academic Scholarship, 2023.
+- Undergraduate Research Intern at METU ROMER, 07/2023 - 08/2023, 07/2024 - 09/2024
 
-- Freshman Academic Scholarship, 2022.
+- Backend Developer Intern at DZD Teknoloji 05/2024 - 06/2024
 
-- Excellent Graduation Project of Jiangsu Province, 2022.
-
-- First-prize Enterprise Scholarship, 2021.
-
-- First-prize Academic Scholarship, 2019.
+- Board Member at ITU BIOBEE 05/2022 - 05/2024

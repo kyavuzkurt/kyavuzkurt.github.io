@@ -1,17 +1,18 @@
 
 
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
+[![kyavuzkurt](https://img.shields.io/badge/kyavuzkurt-github-blue?logo=github)](https://github.com/kyavuzkurt)
+[![kyavuzkurt1](https://img.shields.io/badge/kyavuzkurt1-linkedin-blue?logo=linkedin)](https://www.linkedin.com/in/kyavuzkurt1)
 
-He is currently pursuing a Master's Degree in Computer Science, at School of Computer Science and Technology, China University of Mining and Technology, China.
+Student at Istanbul Technical University, Mechanical Engineering Department.
 
 #### Email
-sli[at]cumt.edu.cn
-
+k.yavuzkurt1@gmail.com
 
 #### Education
-M.E., Computer Science and Technology, China University of Mining and Technology, 2025 (expected).\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2022.
+Istanbul Technical University, Mechanical Engineering, 2019-Current
 
 #### Research Interests
-Deep Learning, Artificial Intelligence Seismology, Mine Microseismic.
+Computer Vision, Robotics, Inverse Kinematics, Deep Learning, AI
 
+### Skills
+Python, ROS, OpenCV, PyTorch, TensorFlow, Keras, Linux, Docker, Git, MATLAB, Fusion360, AutoCAD, Abaqus
