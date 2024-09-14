@@ -10,6 +10,7 @@ k.yavuzkurt1@gmail.com
 
 #### Education
 Istanbul Technical University, Control and Automations Engineering, 2024-Ongoing
+
 Istanbul Technical University, Mechanical Engineering, 2019-2024 (switched majors on 2024)
 
 #### Research Interests
